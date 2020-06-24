@@ -5,3 +5,6 @@ function sayHello(){
 function sayGoodbye(){
 	console.log("say Goodbye");
 }
+
+var foo = "Hello";
+var foo1 = "Bill";
