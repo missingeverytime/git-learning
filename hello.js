@@ -8,3 +8,4 @@ function sayGoodbye(){
 
 var foo = "Hello";
 var foo1 = "Bill";
+var foo2 = "Alice";
